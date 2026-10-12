@@ -1,0 +1,48 @@
+{
+  "id": "keinarou-king",
+  "name": "ケイナロウ王",
+  "model": "classic",
+  "parts": {
+    "head": {
+      "color": "#e8c49a"
+    },
+    "hat": {
+      "color": "#ffd24a"
+    },
+    "body": {
+      "color": "#2b4fa3"
+    },
+    "jacket": {
+      "color": null
+    },
+    "rightArm": {
+      "color": "#2b4fa3"
+    },
+    "rightSleeve": {
+      "color": null
+    },
+    "leftArm": {
+      "color": "#2b4fa3"
+    },
+    "leftSleeve": {
+      "color": null
+    },
+    "rightLeg": {
+      "color": "#3a2e28"
+    },
+    "rightPants": {
+      "color": null
+    },
+    "leftLeg": {
+      "color": "#3a2e28"
+    },
+    "leftPants": {
+      "color": null
+    }
+  },
+  "origin": {
+    "method": "llm-assisted",
+    "createdAt": "2026-10-12",
+    "note": "配色は仮案（Claude）。利用規約の確認は未了。PO の画像確認待ち"
+  }
+}
